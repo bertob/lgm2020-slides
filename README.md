@@ -13,4 +13,4 @@ I'll talk about how this initiative came to be, where we are right now (with som
 
 ### Video
 
-The video will be available after the conference.
+Video recordings are available on [ConfTube](https://conf.tube/w/d4875855-cb95-410e-b5c3-ae4cc925a5f7), and on [Youtube](https://www.youtube.com/watch?v=L1mz9y_sqeY).
